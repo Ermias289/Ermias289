@@ -119,12 +119,10 @@ https://github.com/Ermias289/clinic-crm
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ermias289&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  🦈 Pull Shark ×2 &nbsp;&nbsp; | &nbsp;&nbsp; 🪀 YOLO
 </p>
 
 ---
@@ -132,23 +130,17 @@ https://github.com/Ermias289/clinic-crm
 # 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/jeremiah-ermias">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/jeremiah-ermias">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:Jeremiahmollag@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="mailto:Jeremiahmollag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-
-📧 **Jeremiahmollag@gmail.com**
-
+  📧 <strong>Jeremiahmollag@gmail.com</strong>
 </p>
 
 ---
