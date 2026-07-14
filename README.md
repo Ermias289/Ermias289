@@ -1,71 +1,69 @@
-# Hi, I'm Ermias (Jeremiah) 👋
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,100:06B6D4&text=Ermias%20(Jeremiah)%20Molla&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Laravel%20|%20ASP.NET%20Core&descAlignY=58" />
 
+<h1 align="center">Hi there 👋 I'm Ermias (Jeremiah)</h1>
+
+<h3 align="center">
 Backend Developer focused on building secure, scalable REST APIs using Laravel and ASP.NET Core.
+</h3>
 
-- 💻 Backend Developer
-- 🌍 Based in Ethiopia
-- 🎓 Computer Science Student
-- 🚀 Currently building Inventory Management Systems and Business Solutions
-- 🌱 Learning Laravel, .NET, System Design, and Cloud Technologies
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ermias289&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
+</p>
 
 ---
 
-## Tech Stack
+# 👨‍💻 About Me
+
+- 💻 Backend Developer
+- 🎓 Computer Science Student
+- 🌍 Based in Ethiopia
+- 🚀 Building secure and scalable business applications
+- 📚 Currently learning Laravel Advanced, .NET, System Design, Docker, Azure & Cloud Technologies
+- ⚡ Passionate about clean architecture, scalable APIs, and solving real business problems
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-- PHP
-- C#
-- JavaScript
-- SQL
-- Python
+<p>
+<img src="https://skillicons.dev/icons?i=php,cs,js,python,mysql" />
+</p>
 
 ### Backend
 
-- Laravel
-- ASP.NET Core
-- REST APIs
-- JWT Authentication
-- Entity Framework Core
-- Eloquent ORM
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet" />
+</p>
 
 ### Database
 
-- MySQL
-- SQL Server
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Visual Studio
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ---
 
-## Featured Projects
+# 📌 Featured Projects
 
-### Inventory Management System
+## 📦 Inventory Management System
 
-Professional Inventory API built with Laravel.
+Professional Inventory Management API built with **Laravel**.
 
-Features
+### Features
 
 - JWT Authentication
 - Role & Permission Management
 - Product CRUD
-- Categories
+- Category Management
 - Stock In / Stock Out
 - Media Uploads
 - Activity Logs
@@ -75,21 +73,23 @@ Features
 - Service Layer
 - SOLID Principles
 
-Repository:
-https://github.com/Ermias289/Inventory_Mgmt_System 
+🔗 Repository
+
+https://github.com/Ermias289/Inventory_Mgmt_System
 
 ---
 
-### Clinic CRM
+## 🏥 Clinic CRM
 
 Mobile application developed for a healthcare organization.
 
-Repository:
+🔗 Repository
+
 https://github.com/Ermias289/clinic-crm
 
 ---
 
-## Currently Learning
+# 📚 Currently Learning
 
 - Laravel Advanced
 - Redis
@@ -97,25 +97,66 @@ https://github.com/Ermias289/clinic-crm
 - Docker
 - Microservices
 - System Design
-- Azure
+- Azure Cloud
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ermias289&show_icons=true)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ermias289)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ermias289&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermias289&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ermias289&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
-## Connect with Me
+# 🏆 GitHub Trophies
 
-LinkedIn:
-https://linkedin.com/in/jeremiah-ermias
+<p align="center">
 
-Email:
-Jeremiahmollag@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=Ermias289&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-![](https://komarev.com/ghpvc/?username=Ermias289)
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ermias289)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/jeremiah-ermias">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:Jeremiahmollag@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Jeremiahmollag@gmail.com**
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Code should be secure, scalable, and maintainable—not just functional."*
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
